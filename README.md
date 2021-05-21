@@ -1,0 +1,2 @@
+# IntranetFC2
+triggers
